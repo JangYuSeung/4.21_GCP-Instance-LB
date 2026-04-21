@@ -25,6 +25,7 @@ gcloud compute firewall-rules delete \
     st8-ex-allow-web-ingress \
     st8-ex-allow-was-ingress \
     st8-ex-allow-mysql-ingress \
+    st8-ex-allow-icmp-internal \
     --quiet
 
 sleep 2
