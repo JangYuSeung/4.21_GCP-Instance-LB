@@ -1,1 +1,1 @@
-실습 핵심: GCP 인스턴스 생성 시 startup-scripts(유저데이터)에서 init-scripts-docker-compose.sh를 사용. => init-script-docker-compose.sh: 다른 깃허브 레포지토리 docker-network의 /main/ex-board/docker-compose-gcp.yaml을 인스턴스로 다운로드해서 docker compose up 진행
+4.21 실습 핵심: GCP 인스턴스 생성 시 startup-scripts(유저데이터)에서 init-scripts-docker-compose.sh를 사용. => init-script-docker-compose.sh: 다른 깃허브 레포지토리 docker-network의 /main/ex-board/docker-compose-gcp.yaml을 인스턴스로 다운로드해서 docker compose up 진행

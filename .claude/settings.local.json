@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gcloud compute *)",
+      "Bash(gcloud dns *)",
+      "Bash(bash create-custom-image.sh)"
+    ]
+  }
+}
